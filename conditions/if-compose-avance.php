@@ -9,7 +9,7 @@ $vivant = true;
 $couleur = "Blanc";
 $yeux = "Vert";
 
-echo "1.Est ce que c'est mon chat ? ";
+echo "1.Est-ce que c'est mon chat ? ";
 echo "<br>";
 echo "Mon chat est vivant, de couleur blanc et a les yeux Vert";
 echo "<br>";
@@ -46,7 +46,7 @@ echo "<br><br>";
 
 
 // Écrivez le test qui vérifie la question suivante : (utilisez un seul if)
-echo "2.Est ce que c'est un de mes chat ? ";
+echo "2.Est-ce que c'est un de mes chat ? ";
 echo "<br>";
 echo "Un de mes chat est vivant, a des yeux verts et est de couleur marron. Et l'autre est aussi vivant, de couleur Blanc et des yeux verts  ";
 echo "<br>";
@@ -66,7 +66,7 @@ echo "<br><br>";
 
 //----------------------------------------
 // Écrivez le test qui vérifie la question suivante : (utilisez un seul if)
-echo "3.Est ce que c'est un de mes animaux ? ";
+echo "3.Est-ce que c'est un de mes animaux ? ";
 echo "<br>";
 echo "J'avais un chien de couleur noir avec des yeux bleus. J'ai un chat de couleur orange et des yeux bleus et un chien de couleur marron et des yeux bleus ";
 echo "<br>";
